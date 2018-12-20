@@ -1,0 +1,5 @@
+#Installing Selenium
+
+I was using Anaconda at the point of installation, so the below process is was done using Anaconda and python 3.7x
+
+Step 1: 
