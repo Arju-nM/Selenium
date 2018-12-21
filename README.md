@@ -1,4 +1,4 @@
-# Web-Scraping
+# Selenium
 Web scrapping using **Python and Selenium**  
 Contains:
 >1. Selenium installaion guide
