@@ -1,7 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import os
-os.chdir("F:\Intern - Noah_Indium")
 
 #list of names from database
 name = ['Mark Ruffalo','Mark Rafflo','Chris Pratt','Chris Patt','Jermy Renner','Jermy Rener','Ryan Reynolds','Rian Renolds','Tom Cruise','Tom Cruise','Robert Downey J','Robert D Jr','Dwayne Johnson','The Rock'] 
