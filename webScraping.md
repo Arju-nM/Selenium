@@ -14,4 +14,10 @@ I had to change the entire `name` column such that the name of any actor was uni
 ## Solution
 So what my code does is read the `name` column as a Series, opens Chrome and searches for each name as discussed above. After every search, the text under **h3 class** is extracted.
 
+Searching with key<br/>
+<br/>![](https://github.com/Arju-nM/Selenium-with-Python/blob/master/Images/picture5.png)
 
+<br/>Extracting the text<br/>
+<br/>![](https://github.com/Arju-nM/Selenium-with-Python/blob/master/Images/picture6.png)
+<br/>
+So I extract data from h3 class, and append it to a list. The data extracted in the example discussed here, is **Leonardo DiCaprio - IMDb**. I remove the part after **"-"** by spliting the string using delimiter.
