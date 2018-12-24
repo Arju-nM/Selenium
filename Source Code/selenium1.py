@@ -1,6 +1,5 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-import os
 
 #list of names from database
 name = ['Mark Ruffalo','Mark Rafflo','Chris Pratt','Chris Patt','Jermy Renner','Jermy Rener','Ryan Reynolds','Rian Renolds','Tom Cruise','Tom Cruise','Robert Downey J','Robert D Jr','Dwayne Johnson','The Rock'] 
@@ -23,4 +22,4 @@ for i in name:
     namesCorrected.append(text) ##append to new list
     
 print(namesCorrected) #print corrected names
-driver.close() #close chrome   
+driver.close() #close chrome 
