@@ -32,4 +32,4 @@ If the list of names from the database is large, just as what I worked with, you
 <br/>![](https://github.com/Arju-nM/Selenium-with-Python/blob/master/Images/picture7.png)
 <br/>
 So what I did was shift the entire code in the above case (small list of names) into a try block and except block, I closed the opened google once again and then continued the same process.  
-Click [here](https://github.com/Arju-nM/Selenium-with-Python/blob/master/Source%20Code/selenium2.py) to have a look at the code.
+Click [here]() to have a look at the code.
