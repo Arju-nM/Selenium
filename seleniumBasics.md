@@ -1,4 +1,4 @@
-# Web Scraping
+# Selenium Basics
 
 ## Opening a browser  
 ```python
