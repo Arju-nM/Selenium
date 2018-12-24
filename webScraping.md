@@ -20,4 +20,4 @@ Searching with key<br/>
 <br/>Extracting the text<br/>
 <br/>![](https://github.com/Arju-nM/Selenium-with-Python/blob/master/Images/picture6.png)
 <br/>
-So I extract data from h3 class, and append it to a list. The data extracted in the example discussed here, is **Leonardo DiCaprio - IMDb**. I remove the part after **"-"** by spliting the string using delimiter.
+So I extract data from h3 class, and append it to a list. The data extracted in the example discussed here, is **Leonardo DiCaprio - IMDb**. I remove the part after **"-"** by splitting the string using delimiter.
