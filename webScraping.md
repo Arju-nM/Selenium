@@ -12,7 +12,7 @@ The problem was that there existed duplicate entries for the same actor-movie co
 I had to change the entire `name` column such that the name of any actor was uniform through out. I decided to change the name of the actors with reference to [imdb](https://www.imdb.com/). I knew that if I typed the actor's name along with imdb I would get the right name, like **Leo Dicaprio and imdb** the [top result](https://www.google.com/search?source=hp&ei=w5AgXIPGF4HtvASv9bi4DQ&q=Leo+Dicaprio+and+imdb&btnK=Google+Search&oq=Leo+Dicaprio+and+imdb&gs_l=psy-ab.3..35i39j0i22i30l9.1189.1189..1615...0.0..0.114.215.0j2......0....1j2..gws-wiz.....0.68jybQ_LuZw) in google would be a link to imdb with the right name. But I couldn't manually check for each entry, even if there were 50 actors with 2 name variants, I had to check **100 entries one by one**. So I had to design my code in such a way that it would search for each entry of the column and extract the right name.  
 
 ## Solution
-So what my code does is read the `name` column as a Series, opens Chrome and searches for each name as discussed above. After every search, the text under **h3 class** is extracted.
+So what my code does is read the `name` column, opens Chrome and searches for each name as discussed above. After every search, the text under **h3 class** is extracted.
 
 Searching with key<br/>
 <br/>![](https://github.com/Arju-nM/Selenium-with-Python/blob/master/Images/picture5.png)
