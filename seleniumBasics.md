@@ -65,13 +65,13 @@ Steps:
 Example:
 
 Go to amazon.com<br/> 
-<br/>![](/picture1.png)<br/>
+<br/>![](/Images/picture1.png)<br/>
 
 <br/><br/>Right click in the search bar and select Inspect Element (or `Ctrl+Shift+I`)<br/>
-<br/>![](/picture2.png)<br/>  
+<br/>![](/Images/picture2.png)<br/>  
 
 <br/><br/>Search for name in highlighted text<br/>
-<br/>![](/picture3.png)<br/>  
+<br/>![](/Images/picture3.png)<br/>  
 
 <br/><br/>This is the searchBarName that has to be entered in `find_element_by_name(searchBarName)`<br/>
-<br/>![](/picture4.png)<br/>
+<br/>![](/Images/picture4.png)<br/>
