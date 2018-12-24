@@ -31,4 +31,5 @@ If the list of names is small, then you will not encounter any problem, the solu
 If the list of names from the database is large, just as what I worked with, you will encounter a runtime problem. When you are on a loop and around the time you have searched for 50 or more names, Chrome will stop and ask for **I'm not a robot** confirmation (captcha).
 <br/>![](https://github.com/Arju-nM/Selenium-with-Python/blob/master/Images/picture7.png)
 <br/>
-So what I did was shift the entire code in the above case (small list of names) into a try block and except block, I closed the opened google once again and then continued the same process. Click [here](https://github.com/Arju-nM/Selenium-with-Python/blob/master/Source%20Code/selenium2.py) to have a look at the code.
+So what I did was shift the entire code in the above case (small list of names) into a try block and except block, I closed the opened google once again and then continued the same process.  
+Click [here](https://github.com/Arju-nM/Selenium-with-Python/blob/master/Source%20Code/selenium2.py) to have a look at the code.
