@@ -64,17 +64,14 @@ Steps:
 
 Example:
 
-Go to amazon.com
-![](/picture1.png)
+Go to amazon.com 
+<br/>![](/picture1.png)<br/>
 
-
-Right click in the search bar and slect Inspect Element
-![](/picture2.png)
-
+Right click in the search bar and select Inspect Element (or `Ctrl+Shift+I`)
+<br/>![](/picture2.png)<br/>  
 
 Search for name in highlighted text
-![](/picture3.png)
-
+<br/>![](/picture3.png)<br/>  
 
 This is the searchBarName
-![](/picture4.png)
+<br/>![](/picture4.png)<br/>
