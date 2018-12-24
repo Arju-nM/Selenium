@@ -73,5 +73,5 @@ Go to amazon.com<br/>
 <br/><br/>Search for name in highlighted text<br/>
 <br/>![](/picture3.png)<br/>  
 
-<br/><br/>This is the searchBarName<br/>
+<br/><br/>This is the searchBarName that has to be entered in `find_element_by_name(searchBarName)`<br/>
 <br/>![](/picture4.png)<br/>
