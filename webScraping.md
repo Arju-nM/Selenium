@@ -21,3 +21,12 @@ Searching with key<br/>
 <br/>![](https://github.com/Arju-nM/Selenium-with-Python/blob/master/Images/picture6.png)
 <br/>
 So I extract data from h3 class, and append it to a list. The data extracted in the example discussed here, is **Leonardo DiCaprio - IMDb**. I remove the part after **"-"** by splitting the string using delimiter.
+
+## Code
+
+1. **Small list of names**:  
+If the list of names is small, then you will not encounter any problem, the solution above can be implemented without any modification. Click [here](https://github.com/Arju-nM/Selenium-with-Python/blob/master/Source%20Code/selenium1.py) to have a look at the code.  
+
+2. **Large list of names**
+If the list of names from the database is large, just as what I worked with, you will encounter a runtime problem. When you are on a loop and around the time you have searched for 50 or more names, Chrome will stop and ask
+<br/>![](https://github.com/Arju-nM/Selenium-with-Python/blob/master/Images/picture5.png)
