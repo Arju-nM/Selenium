@@ -65,9 +65,16 @@ Steps:
 Example:
 
 Go to amazon.com
+![](/picture1.png)
 
-Right click the search bar
 
-Select Inspect Element 
+Right click in the search bar and slect Inspect Element
+![](/picture2.png)
+
 
 Search for name in highlighted text
+![](/picture3.png)
+
+
+This is the searchBarName
+![](/picture4.png)
