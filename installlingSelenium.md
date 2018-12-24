@@ -30,10 +30,16 @@ Note: You will know that the download and installation of your package is comple
 
 ## Installing Selenium Webdriver
 
-* Download the webdriver according to the browser of you choice, links are provided below:
-|Browser  |
-|---------|
-|Chrome   |
-|Edge     |
-|Firefox
-|Safari
+* Download the webdriver according to the browser of you choice, links are provided below:  
+
+|Browser  | Link         |
+|---------|--------------|
+|Chrome   |[Click here]()|
+|Edge     |[Click here]()|
+|Firefox  |[Click here]()|
+|Safari   |[Click here]()|
+* Make sure that eiither the downloaded driver is in the `path` or set `path` to the location of the browser  
+
+Note: I installed the driver for Chrome.   
+
+Now you are 
