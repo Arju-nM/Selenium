@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
 #list of names from database
-db = pd.read_csv('databseOfActors.csv') 
+db = pd.read_csv('databaseOfActors.csv') 
 name = pd.Series(db['name'])
 
 #list to store corrected names
